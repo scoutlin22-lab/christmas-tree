@@ -1,0 +1,8 @@
+
+{
+  "name": "MERRY CHRISTMASI - Gold Energy Tree",
+  "description": "A high-fidelity 3D Christmas experience featuring a cinematic golden energy particle tree, floating snow, and festive atmosphere.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
